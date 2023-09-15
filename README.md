@@ -30,8 +30,8 @@ To assemble the computer system.
  
 4.Mount the Motherboard:
    - Install the motherboard into the computer case, aligning the screw holes.
-- Secure the motherboard with screws provided with the case.  
-                                    Fig: motherboard and Back panel cover
+- Secure the motherboard with screws provided with the case.
+  
 5.Install Storage:
    - Mount your hard drive or SSD in a drive bay in the case.
    - Connect SATA and power cables to the storage device and motherboard.
