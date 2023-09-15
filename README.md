@@ -61,7 +61,7 @@ To assemble the computer system.
 
 13.Test and Troubleshoot:
 - Boot the system and ensure all components are working correctly.
--  - If you encounter issues, consult your component manuals or seek online support forums for assistance.
+- If you encounter issues, consult your component manuals or seek online support forums for assistance.
  
 14.Install Software and Configure:
 - Install your desired software and configure the operating system to your liking.
